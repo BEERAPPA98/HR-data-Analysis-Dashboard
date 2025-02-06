@@ -31,3 +31,6 @@ Power BI: For creating the dashboard.
 Department-level filtering with interactive slicers.
 Visualizations for attrition by age, salary, job role, and more.
 Highlighted KPIs for quick insights.
+
+Dashboard link ![hr data](https://github.com/user-attachments/assets/e122d793-0824-4f44-bdfd-4901772f80dd)
+
